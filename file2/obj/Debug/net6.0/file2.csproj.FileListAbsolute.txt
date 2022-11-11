@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\file2.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\file2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\file2.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\file2.AssemblyInfo.cs
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\file2.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\C#7\file2\bin\Debug\net6.0\file2.exe
+C:\Users\Павел\Desktop\C#7\file2\bin\Debug\net6.0\file2.deps.json
+C:\Users\Павел\Desktop\C#7\file2\bin\Debug\net6.0\file2.runtimeconfig.json
+C:\Users\Павел\Desktop\C#7\file2\bin\Debug\net6.0\file2.dll
+C:\Users\Павел\Desktop\C#7\file2\bin\Debug\net6.0\file2.pdb
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\file2.dll
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\refint\file2.dll
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\file2.pdb
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\file2.genruntimeconfig.cache
+C:\Users\Павел\Desktop\C#7\file2\obj\Debug\net6.0\ref\file2.dll
